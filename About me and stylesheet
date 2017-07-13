@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Marcellus+SC" rel="stylesheet">
+    <link rel= "stylesheet" type=text/css href="stylesheet.css">
+    <title> All About Me </title>
+  </head>
+  <body>
+    <h1>Hello my name is Stefanie!</h1>
+
+    <H2> About Me </h2>
+    <p> My name is Stefanie Donayre. I am 16 years old. I am a risisng junior in high school.</p>
+
+    <h3>Likes and Dislikes:</h3>
+    <ol>Likes
+      <li>Ice Cream</li>
+      <li>Listening to music</li>
+      <li>going to concerts</li>
+      <li>Playing the guitar</li>
+
+    <ol>Dislikes <text-decoration:underline>
+      <li>
+      <li> </li>
+
+      <h4>Fun Fact</h4>
+      <div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;" >
+            <img src="http://www.westendschools.org/cheer.gif"/>
+        </div>
+        <div style="display:inline-block; min-width:3.8cm;">
+        I am a cheerleader for my high school.
+
+    <h5> Favorite Webpages </h5>
+    <p><a href="www.spotify.com/donayre.stefanie">goes to Spotify</a>
+    <p><a href="www.twitter.com/penceystef">goes to Twitter</a>
+    <p><a href="www.snapchat.com/stefisnotonfire">goes to Snapchat</a>
+  </body>
+</html>

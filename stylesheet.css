@@ -1,0 +1,48 @@
+body {
+  background-color:#ffe4e1;
+  font-family: 'Marcellus SC';
+  color:#20b2aa;
+  font-size: 20px;
+}
+
+.custom {
+  font-family: 'Marcellus SC',serif;
+  color:#008080;
+  font-size:20px;
+}
+
+h3 {
+  font-size: #ffe41;
+color: #0d253d;
+}
+
+h4 {
+  font-family: #ffe41;
+  color:#0d253d;
+  font-size: 30px
+}
+
+h5{
+  font-size:30px;
+  color:#0d253d;
+}
+
+h2{
+  font-size: 30px;
+  color:#0d253d;
+}
+
+h1{
+  font-size: 30px
+  color:#0d253d
+
+<body{
+      width:21.1cm;
+      height:29.8cm;
+      background-color: white;
+      margin-top:0.4cm;
+  }
+
+Dislikes{
+text-decoration: underline;
+ }
