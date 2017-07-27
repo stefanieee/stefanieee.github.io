@@ -1,0 +1,13 @@
+#menu generator
+import random
+
+sides = ["french fries", "salad", "bread sticks"]
+maincourse = ["pizza", "soup", "burger"]
+desserts = ["pie", "cupcake", "ice cream"]
+drinks = ["water", "soda", "iced tea"]
+
+(menulist) =["sides","main course", "desserts","drinks"]
+
+print(menulist[0])
+
+print(random.choice(menulist))

@@ -1,0 +1,13 @@
+a = int(input('number of sides in the polygon?'))
+b = int(input('how long should each side be?'))
+c = str(input('what should the edge color of the polygon be?'))
+
+import turtle
+wn = turtle.Screen()
+
+blu = turtle.Turtle()
+blu.color(c)
+
+for x in range(a):
+    blu.forward(b)
+    blu.left(360/a)
